@@ -1,0 +1,13 @@
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\bin\Debug\WPFDreiDWuerfel.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\bin\Debug\WPFDreiDWuerfel.exe
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\bin\Debug\WPFDreiDWuerfel.pdb
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\obj\Debug\MainWindow.g.cs
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\obj\Debug\App.g.cs
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\obj\Debug\WPFDreiDWuerfel_MarkupCompile.cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\obj\Debug\WPFDreiDWuerfel_MarkupCompile.lref
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\obj\Debug\MainWindow.baml
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\obj\Debug\WPFDreiDWuerfel.g.resources
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\obj\Debug\WPFDreiDWuerfel.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\obj\Debug\WPFDreiDWuerfel.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\obj\Debug\WPFDreiDWuerfel.exe
+c:\users\theis\documents\visual studio 2017\Projects\WPFDreiDWuerfel\WPFDreiDWuerfel\obj\Debug\WPFDreiDWuerfel.pdb

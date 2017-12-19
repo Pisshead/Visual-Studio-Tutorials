@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Optionsgruppen\Optionsgruppen\bin\Debug\Optionsgruppen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Optionsgruppen\Optionsgruppen\bin\Debug\Optionsgruppen.exe
+c:\users\theis\documents\visual studio 2017\Projects\Optionsgruppen\Optionsgruppen\bin\Debug\Optionsgruppen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Optionsgruppen\Optionsgruppen\obj\Debug\Optionsgruppen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Optionsgruppen\Optionsgruppen\obj\Debug\Optionsgruppen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Optionsgruppen\Optionsgruppen\obj\Debug\Optionsgruppen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Optionsgruppen\Optionsgruppen\obj\Debug\Optionsgruppen.exe
+c:\users\theis\documents\visual studio 2017\Projects\Optionsgruppen\Optionsgruppen\obj\Debug\Optionsgruppen.pdb

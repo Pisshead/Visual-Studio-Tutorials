@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.exe
+c:\users\theis\documents\visual studio 2017\Projects\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.exe
+c:\users\theis\documents\visual studio 2017\Projects\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.pdb

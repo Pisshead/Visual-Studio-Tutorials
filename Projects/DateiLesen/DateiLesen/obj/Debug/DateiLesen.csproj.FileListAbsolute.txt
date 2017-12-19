@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\DateiLesen\DateiLesen\bin\Debug\DateiLesen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DateiLesen\DateiLesen\bin\Debug\DateiLesen.exe
+c:\users\theis\documents\visual studio 2017\Projects\DateiLesen\DateiLesen\bin\Debug\DateiLesen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DateiLesen\DateiLesen\obj\Debug\DateiLesen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DateiLesen\DateiLesen\obj\Debug\DateiLesen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DateiLesen\DateiLesen\obj\Debug\DateiLesen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DateiLesen\DateiLesen\obj\Debug\DateiLesen.exe
+c:\users\theis\documents\visual studio 2017\Projects\DateiLesen\DateiLesen\obj\Debug\DateiLesen.pdb

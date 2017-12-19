@@ -1,0 +1,13 @@
+c:\users\theis\documents\visual studio 2017\Projects\MeinErstes\MeinErstes\bin\Debug\MeinErstes.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\MeinErstes\MeinErstes\bin\Debug\MeinErstes.exe
+c:\users\theis\documents\visual studio 2017\Projects\MeinErstes\MeinErstes\bin\Debug\MeinErstes.pdb
+c:\users\theis\documents\visual studio 2017\Projects\MeinErstes\MeinErstes\obj\Debug\MeinErstes.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\MeinErstes\MeinErstes\obj\Debug\MeinErstes.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\MeinErstes\MeinErstes\obj\Debug\MeinErstes.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\MeinErstes\MeinErstes\obj\Debug\MeinErstes.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\MeinErstes\MeinErstes\obj\Debug\MeinErstes.exe
+c:\users\theis\documents\visual studio 2017\Projects\MeinErstes\MeinErstes\obj\Debug\MeinErstes.pdb
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\MeinErstes\MeinErstes\bin\Debug\MeinErstes.exe.manifest
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\MeinErstes\MeinErstes\bin\Debug\MeinErstes.application
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\MeinErstes\MeinErstes\obj\Debug\MeinErstes.exe.manifest
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\MeinErstes\MeinErstes\obj\Debug\MeinErstes.application

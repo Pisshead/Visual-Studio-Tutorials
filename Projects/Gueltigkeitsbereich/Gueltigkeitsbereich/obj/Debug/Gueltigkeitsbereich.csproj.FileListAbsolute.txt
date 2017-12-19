@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Gueltigkeitsbereich\Gueltigkeitsbereich\bin\Debug\Gueltigkeitsbereich.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Gueltigkeitsbereich\Gueltigkeitsbereich\bin\Debug\Gueltigkeitsbereich.exe
+c:\users\theis\documents\visual studio 2017\Projects\Gueltigkeitsbereich\Gueltigkeitsbereich\bin\Debug\Gueltigkeitsbereich.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.exe
+c:\users\theis\documents\visual studio 2017\Projects\Gueltigkeitsbereich\Gueltigkeitsbereich\obj\Debug\Gueltigkeitsbereich.pdb

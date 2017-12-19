@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldKoppeln\TextfeldKoppeln\bin\Debug\TextfeldKoppeln.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldKoppeln\TextfeldKoppeln\bin\Debug\TextfeldKoppeln.exe
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldKoppeln\TextfeldKoppeln\bin\Debug\TextfeldKoppeln.pdb
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldKoppeln\TextfeldKoppeln\obj\Debug\TextfeldKoppeln.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldKoppeln\TextfeldKoppeln\obj\Debug\TextfeldKoppeln.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldKoppeln\TextfeldKoppeln\obj\Debug\TextfeldKoppeln.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldKoppeln\TextfeldKoppeln\obj\Debug\TextfeldKoppeln.exe
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldKoppeln\TextfeldKoppeln\obj\Debug\TextfeldKoppeln.pdb

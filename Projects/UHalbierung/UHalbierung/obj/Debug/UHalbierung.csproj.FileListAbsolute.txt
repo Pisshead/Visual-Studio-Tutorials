@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\UHalbierung\UHalbierung\bin\Debug\UHalbierung.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UHalbierung\UHalbierung\bin\Debug\UHalbierung.exe
+c:\users\theis\documents\visual studio 2017\Projects\UHalbierung\UHalbierung\bin\Debug\UHalbierung.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UHalbierung\UHalbierung\obj\Debug\UHalbierung.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UHalbierung\UHalbierung\obj\Debug\UHalbierung.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UHalbierung\UHalbierung\obj\Debug\UHalbierung.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UHalbierung\UHalbierung\obj\Debug\UHalbierung.exe
+c:\users\theis\documents\visual studio 2017\Projects\UHalbierung\UHalbierung\obj\Debug\UHalbierung.pdb

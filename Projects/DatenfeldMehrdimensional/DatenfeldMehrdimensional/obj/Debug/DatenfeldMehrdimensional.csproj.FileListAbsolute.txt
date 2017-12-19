@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\bin\Debug\DatenfeldMehrdimensional.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\bin\Debug\DatenfeldMehrdimensional.exe
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\bin\Debug\DatenfeldMehrdimensional.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.exe
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldMehrdimensional\DatenfeldMehrdimensional\obj\Debug\DatenfeldMehrdimensional.pdb

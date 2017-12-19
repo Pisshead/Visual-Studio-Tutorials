@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\MehrereEreignisse\MehrereEreignisse\bin\Debug\MehrereEreignisse.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\MehrereEreignisse\MehrereEreignisse\bin\Debug\MehrereEreignisse.exe
+c:\users\theis\documents\visual studio 2017\Projects\MehrereEreignisse\MehrereEreignisse\bin\Debug\MehrereEreignisse.pdb
+c:\users\theis\documents\visual studio 2017\Projects\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.exe
+c:\users\theis\documents\visual studio 2017\Projects\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.pdb
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\MehrereEreignisse\MehrereEreignisse\obj\Debug\MehrereEreignisse.csprojResolveAssemblyReference.cache

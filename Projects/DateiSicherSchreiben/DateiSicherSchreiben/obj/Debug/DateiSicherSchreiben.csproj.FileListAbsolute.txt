@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\DateiSicherSchreiben\DateiSicherSchreiben\bin\Debug\DateiSicherSchreiben.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DateiSicherSchreiben\DateiSicherSchreiben\bin\Debug\DateiSicherSchreiben.exe
+c:\users\theis\documents\visual studio 2017\Projects\DateiSicherSchreiben\DateiSicherSchreiben\bin\Debug\DateiSicherSchreiben.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.exe
+c:\users\theis\documents\visual studio 2017\Projects\DateiSicherSchreiben\DateiSicherSchreiben\obj\Debug\DateiSicherSchreiben.pdb

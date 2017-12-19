@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\StatischeElemente\StatischeElemente\bin\Debug\StatischeElemente.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\StatischeElemente\StatischeElemente\bin\Debug\StatischeElemente.exe
+c:\users\theis\documents\visual studio 2017\Projects\StatischeElemente\StatischeElemente\bin\Debug\StatischeElemente.pdb
+c:\users\theis\documents\visual studio 2017\Projects\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.exe
+c:\users\theis\documents\visual studio 2017\Projects\StatischeElemente\StatischeElemente\obj\Debug\StatischeElemente.pdb

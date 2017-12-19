@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEreignis\ListenfeldEreignis\bin\Debug\ListenfeldEreignis.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEreignis\ListenfeldEreignis\bin\Debug\ListenfeldEreignis.exe
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEreignis\ListenfeldEreignis\bin\Debug\ListenfeldEreignis.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEreignis\ListenfeldEreignis\obj\Debug\ListenfeldEreignis.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEreignis\ListenfeldEreignis\obj\Debug\ListenfeldEreignis.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEreignis\ListenfeldEreignis\obj\Debug\ListenfeldEreignis.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEreignis\ListenfeldEreignis\obj\Debug\ListenfeldEreignis.exe
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEreignis\ListenfeldEreignis\obj\Debug\ListenfeldEreignis.pdb

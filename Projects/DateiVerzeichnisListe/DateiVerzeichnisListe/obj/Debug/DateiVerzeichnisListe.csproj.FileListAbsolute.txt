@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\bin\Debug\DateiVerzeichnisListe.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\bin\Debug\DateiVerzeichnisListe.exe
+c:\users\theis\documents\visual studio 2017\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\bin\Debug\DateiVerzeichnisListe.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.exe
+c:\users\theis\documents\visual studio 2017\Projects\DateiVerzeichnisListe\DateiVerzeichnisListe\obj\Debug\DateiVerzeichnisListe.pdb

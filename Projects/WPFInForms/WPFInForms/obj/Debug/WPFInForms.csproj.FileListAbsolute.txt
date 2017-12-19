@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\WPFInForms\WPFInForms\bin\Debug\WPFInForms.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\WPFInForms\WPFInForms\bin\Debug\WPFInForms.exe
+c:\users\theis\documents\visual studio 2017\Projects\WPFInForms\WPFInForms\bin\Debug\WPFInForms.pdb
+c:\users\theis\documents\visual studio 2017\Projects\WPFInForms\WPFInForms\obj\Debug\WPFInForms.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFInForms\WPFInForms\obj\Debug\WPFInForms.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\WPFInForms\WPFInForms\obj\Debug\WPFInForms.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\WPFInForms\WPFInForms\obj\Debug\WPFInForms.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFInForms\WPFInForms\obj\Debug\WPFInForms.exe
+c:\users\theis\documents\visual studio 2017\Projects\WPFInForms\WPFInForms\obj\Debug\WPFInForms.pdb

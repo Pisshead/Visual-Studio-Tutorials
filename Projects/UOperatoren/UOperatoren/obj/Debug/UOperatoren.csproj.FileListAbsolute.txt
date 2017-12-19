@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\UOperatoren\UOperatoren\bin\Debug\UOperatoren.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UOperatoren\UOperatoren\bin\Debug\UOperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\UOperatoren\UOperatoren\bin\Debug\UOperatoren.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UOperatoren\UOperatoren\obj\Debug\UOperatoren.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UOperatoren\UOperatoren\obj\Debug\UOperatoren.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UOperatoren\UOperatoren\obj\Debug\UOperatoren.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UOperatoren\UOperatoren\obj\Debug\UOperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\UOperatoren\UOperatoren\obj\Debug\UOperatoren.pdb

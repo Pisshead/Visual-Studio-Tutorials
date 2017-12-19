@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\bin\Debug\ReferenzenVergleicheTypen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\bin\Debug\ReferenzenVergleicheTypen.exe
+c:\users\theis\documents\visual studio 2017\Projects\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\bin\Debug\ReferenzenVergleicheTypen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.exe
+c:\users\theis\documents\visual studio 2017\Projects\ReferenzenVergleicheTypen\ReferenzenVergleicheTypen\obj\Debug\ReferenzenVergleicheTypen.pdb

@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Konstanten\Konstanten\bin\Debug\Konstanten.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Konstanten\Konstanten\bin\Debug\Konstanten.exe
+c:\users\theis\documents\visual studio 2017\Projects\Konstanten\Konstanten\bin\Debug\Konstanten.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Konstanten\Konstanten\obj\Debug\Konstanten.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Konstanten\Konstanten\obj\Debug\Konstanten.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Konstanten\Konstanten\obj\Debug\Konstanten.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Konstanten\Konstanten\obj\Debug\Konstanten.exe
+c:\users\theis\documents\visual studio 2017\Projects\Konstanten\Konstanten\obj\Debug\Konstanten.pdb

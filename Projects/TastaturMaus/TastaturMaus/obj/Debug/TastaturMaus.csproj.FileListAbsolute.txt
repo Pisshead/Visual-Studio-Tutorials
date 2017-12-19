@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\TastaturMaus\TastaturMaus\bin\Debug\TastaturMaus.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\TastaturMaus\TastaturMaus\bin\Debug\TastaturMaus.exe
+c:\users\theis\documents\visual studio 2017\Projects\TastaturMaus\TastaturMaus\bin\Debug\TastaturMaus.pdb
+c:\users\theis\documents\visual studio 2017\Projects\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.exe
+c:\users\theis\documents\visual studio 2017\Projects\TastaturMaus\TastaturMaus\obj\Debug\TastaturMaus.pdb

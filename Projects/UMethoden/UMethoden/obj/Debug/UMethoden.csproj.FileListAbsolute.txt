@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\UMethoden\UMethoden\bin\Debug\UMethoden.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UMethoden\UMethoden\bin\Debug\UMethoden.exe
+c:\users\theis\documents\visual studio 2017\Projects\UMethoden\UMethoden\bin\Debug\UMethoden.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UMethoden\UMethoden\obj\Debug\UMethoden.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UMethoden\UMethoden\obj\Debug\UMethoden.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UMethoden\UMethoden\obj\Debug\UMethoden.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UMethoden\UMethoden\obj\Debug\UMethoden.exe
+c:\users\theis\documents\visual studio 2017\Projects\UMethoden\UMethoden\obj\Debug\UMethoden.pdb

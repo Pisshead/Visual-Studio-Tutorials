@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\MenueHaupt\MenueHaupt\bin\Debug\MenueHaupt.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\MenueHaupt\MenueHaupt\bin\Debug\MenueHaupt.exe
+c:\users\theis\documents\visual studio 2017\Projects\MenueHaupt\MenueHaupt\bin\Debug\MenueHaupt.pdb
+c:\users\theis\documents\visual studio 2017\Projects\MenueHaupt\MenueHaupt\obj\Debug\MenueHaupt.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\MenueHaupt\MenueHaupt\obj\Debug\MenueHaupt.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\MenueHaupt\MenueHaupt\obj\Debug\MenueHaupt.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\MenueHaupt\MenueHaupt\obj\Debug\MenueHaupt.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\MenueHaupt\MenueHaupt\obj\Debug\MenueHaupt.exe
+c:\users\theis\documents\visual studio 2017\Projects\MenueHaupt\MenueHaupt\obj\Debug\MenueHaupt.pdb

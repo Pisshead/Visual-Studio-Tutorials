@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldMehrfachauswahl\ListenfeldMehrfachauswahl\bin\Debug\ListenfeldMehrfachauswahl.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldMehrfachauswahl\ListenfeldMehrfachauswahl\bin\Debug\ListenfeldMehrfachauswahl.exe
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldMehrfachauswahl\ListenfeldMehrfachauswahl\bin\Debug\ListenfeldMehrfachauswahl.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldMehrfachauswahl\ListenfeldMehrfachauswahl\obj\Debug\ListenfeldMehrfachauswahl.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldMehrfachauswahl\ListenfeldMehrfachauswahl\obj\Debug\ListenfeldMehrfachauswahl.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldMehrfachauswahl\ListenfeldMehrfachauswahl\obj\Debug\ListenfeldMehrfachauswahl.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldMehrfachauswahl\ListenfeldMehrfachauswahl\obj\Debug\ListenfeldMehrfachauswahl.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldMehrfachauswahl\ListenfeldMehrfachauswahl\obj\Debug\ListenfeldMehrfachauswahl.exe
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldMehrfachauswahl\ListenfeldMehrfachauswahl\obj\Debug\ListenfeldMehrfachauswahl.pdb

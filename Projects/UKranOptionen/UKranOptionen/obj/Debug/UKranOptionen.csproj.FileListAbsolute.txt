@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\UKranOptionen\UKranOptionen\bin\Debug\UKranOptionen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UKranOptionen\UKranOptionen\bin\Debug\UKranOptionen.exe
+c:\users\theis\documents\visual studio 2017\Projects\UKranOptionen\UKranOptionen\bin\Debug\UKranOptionen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UKranOptionen\UKranOptionen\obj\Debug\UKranOptionen.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\UKranOptionen\UKranOptionen\obj\Debug\UKranOptionen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UKranOptionen\UKranOptionen\obj\Debug\UKranOptionen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UKranOptionen\UKranOptionen\obj\Debug\UKranOptionen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UKranOptionen\UKranOptionen\obj\Debug\UKranOptionen.exe
+c:\users\theis\documents\visual studio 2017\Projects\UKranOptionen\UKranOptionen\obj\Debug\UKranOptionen.pdb

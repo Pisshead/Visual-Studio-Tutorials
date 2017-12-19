@@ -1,0 +1,6 @@
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleStartparameter\KonsoleStartparameter\bin\Debug\KonsoleStartparameter.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleStartparameter\KonsoleStartparameter\bin\Debug\KonsoleStartparameter.exe
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleStartparameter\KonsoleStartparameter\bin\Debug\KonsoleStartparameter.pdb
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.exe
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.pdb
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.csprojResolveAssemblyReference.cache

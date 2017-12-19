@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldEndlos\TextfeldEndlos\bin\Debug\TextfeldEndlos.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldEndlos\TextfeldEndlos\bin\Debug\TextfeldEndlos.exe
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldEndlos\TextfeldEndlos\bin\Debug\TextfeldEndlos.pdb
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldEndlos\TextfeldEndlos\obj\Debug\TextfeldEndlos.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldEndlos\TextfeldEndlos\obj\Debug\TextfeldEndlos.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldEndlos\TextfeldEndlos\obj\Debug\TextfeldEndlos.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldEndlos\TextfeldEndlos\obj\Debug\TextfeldEndlos.exe
+c:\users\theis\documents\visual studio 2017\Projects\TextfeldEndlos\TextfeldEndlos\obj\Debug\TextfeldEndlos.pdb

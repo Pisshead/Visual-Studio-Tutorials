@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenGrundformen\ZeichnenGrundformen\bin\Debug\ZeichnenGrundformen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenGrundformen\ZeichnenGrundformen\bin\Debug\ZeichnenGrundformen.exe
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenGrundformen\ZeichnenGrundformen\bin\Debug\ZeichnenGrundformen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenGrundformen\ZeichnenGrundformen\obj\Debug\ZeichnenGrundformen.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenGrundformen\ZeichnenGrundformen\obj\Debug\ZeichnenGrundformen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenGrundformen\ZeichnenGrundformen\obj\Debug\ZeichnenGrundformen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenGrundformen\ZeichnenGrundformen\obj\Debug\ZeichnenGrundformen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenGrundformen\ZeichnenGrundformen\obj\Debug\ZeichnenGrundformen.exe
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenGrundformen\ZeichnenGrundformen\obj\Debug\ZeichnenGrundformen.pdb

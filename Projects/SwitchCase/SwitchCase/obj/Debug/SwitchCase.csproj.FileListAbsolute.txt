@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\SwitchCase\SwitchCase\bin\Debug\SwitchCase.exe
+c:\users\theis\documents\visual studio 2017\Projects\SwitchCase\SwitchCase\bin\Debug\SwitchCase.pdb
+c:\users\theis\documents\visual studio 2017\Projects\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\SwitchCase\SwitchCase\obj\Debug\SwitchCase.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\SwitchCase\SwitchCase\obj\Debug\SwitchCase.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\SwitchCase\SwitchCase\obj\Debug\SwitchCase.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\SwitchCase\SwitchCase\obj\Debug\SwitchCase.exe
+c:\users\theis\documents\visual studio 2017\Projects\SwitchCase\SwitchCase\obj\Debug\SwitchCase.pdb

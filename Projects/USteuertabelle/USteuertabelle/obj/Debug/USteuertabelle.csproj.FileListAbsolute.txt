@@ -1,0 +1,9 @@
+C:\Users\Theis\documents\visual studio 2017\Projects\USteuertabelle\USteuertabelle\bin\Debug\USteuertabelle.exe.config
+C:\Users\Theis\documents\visual studio 2017\Projects\USteuertabelle\USteuertabelle\bin\Debug\USteuertabelle.exe
+C:\Users\Theis\documents\visual studio 2017\Projects\USteuertabelle\USteuertabelle\bin\Debug\USteuertabelle.pdb
+C:\Users\Theis\documents\visual studio 2017\Projects\USteuertabelle\USteuertabelle\obj\Debug\USteuertabelle.csprojResolveAssemblyReference.cache
+C:\Users\Theis\documents\visual studio 2017\Projects\USteuertabelle\USteuertabelle\obj\Debug\USteuertabelle.Form1.resources
+C:\Users\Theis\documents\visual studio 2017\Projects\USteuertabelle\USteuertabelle\obj\Debug\USteuertabelle.Properties.Resources.resources
+C:\Users\Theis\documents\visual studio 2017\Projects\USteuertabelle\USteuertabelle\obj\Debug\USteuertabelle.csproj.GenerateResource.Cache
+C:\Users\Theis\documents\visual studio 2017\Projects\USteuertabelle\USteuertabelle\obj\Debug\USteuertabelle.exe
+C:\Users\Theis\documents\visual studio 2017\Projects\USteuertabelle\USteuertabelle\obj\Debug\USteuertabelle.pdb

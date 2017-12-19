@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Mathematik\Mathematik\bin\Debug\Mathematik.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Mathematik\Mathematik\bin\Debug\Mathematik.exe
+c:\users\theis\documents\visual studio 2017\Projects\Mathematik\Mathematik\bin\Debug\Mathematik.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Mathematik\Mathematik\obj\Debug\Mathematik.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\Mathematik\Mathematik\obj\Debug\Mathematik.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Mathematik\Mathematik\obj\Debug\Mathematik.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Mathematik\Mathematik\obj\Debug\Mathematik.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Mathematik\Mathematik\obj\Debug\Mathematik.exe
+c:\users\theis\documents\visual studio 2017\Projects\Mathematik\Mathematik\obj\Debug\Mathematik.pdb

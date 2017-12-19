@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\bin\Debug\WhileDoWhileSchleifen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\bin\Debug\WhileDoWhileSchleifen.exe
+c:\users\theis\documents\visual studio 2017\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\bin\Debug\WhileDoWhileSchleifen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\obj\Debug\WhileDoWhileSchleifen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\obj\Debug\WhileDoWhileSchleifen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\obj\Debug\WhileDoWhileSchleifen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\obj\Debug\WhileDoWhileSchleifen.exe
+c:\users\theis\documents\visual studio 2017\Projects\WhileDoWhileSchleifen\WhileDoWhileSchleifen\obj\Debug\WhileDoWhileSchleifen.pdb

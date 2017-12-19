@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Kontrollkaestchen\Kontrollkaestchen\bin\Debug\Kontrollkaestchen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Kontrollkaestchen\Kontrollkaestchen\bin\Debug\Kontrollkaestchen.exe
+c:\users\theis\documents\visual studio 2017\Projects\Kontrollkaestchen\Kontrollkaestchen\bin\Debug\Kontrollkaestchen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.exe
+c:\users\theis\documents\visual studio 2017\Projects\Kontrollkaestchen\Kontrollkaestchen\obj\Debug\Kontrollkaestchen.pdb

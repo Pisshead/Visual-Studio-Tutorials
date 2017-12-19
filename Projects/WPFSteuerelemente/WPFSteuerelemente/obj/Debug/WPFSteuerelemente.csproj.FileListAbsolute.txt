@@ -1,0 +1,14 @@
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\obj\Debug\MainWindow.g.cs
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\obj\Debug\App.g.cs
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\obj\Debug\WPFSteuerelemente_MarkupCompile.cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\obj\Debug\WPFSteuerelemente_MarkupCompile.lref
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\bin\Debug\WPFSteuerelemente.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\bin\Debug\WPFSteuerelemente.exe
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\bin\Debug\WPFSteuerelemente.pdb
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\obj\Debug\MainWindow.baml
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\obj\Debug\WPFSteuerelemente.g.resources
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\obj\Debug\WPFSteuerelemente.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\obj\Debug\WPFSteuerelemente.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\obj\Debug\WPFSteuerelemente.exe
+c:\users\theis\documents\visual studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\obj\Debug\WPFSteuerelemente.pdb
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\WPFSteuerelemente\WPFSteuerelemente\obj\Debug\WPFSteuerelemente.csprojResolveAssemblyReference.cache

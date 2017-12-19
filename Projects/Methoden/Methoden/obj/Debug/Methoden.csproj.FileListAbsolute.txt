@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Methoden\Methoden\bin\Debug\Methoden.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Methoden\Methoden\bin\Debug\Methoden.exe
+c:\users\theis\documents\visual studio 2017\Projects\Methoden\Methoden\bin\Debug\Methoden.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.exe
+c:\users\theis\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.pdb

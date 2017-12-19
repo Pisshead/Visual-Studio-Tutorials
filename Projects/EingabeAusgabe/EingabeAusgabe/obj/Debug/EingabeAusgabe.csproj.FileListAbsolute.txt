@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\EingabeAusgabe\EingabeAusgabe\bin\Debug\EingabeAusgabe.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\EingabeAusgabe\EingabeAusgabe\bin\Debug\EingabeAusgabe.exe
+c:\users\theis\documents\visual studio 2017\Projects\EingabeAusgabe\EingabeAusgabe\bin\Debug\EingabeAusgabe.pdb
+c:\users\theis\documents\visual studio 2017\Projects\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.exe
+c:\users\theis\documents\visual studio 2017\Projects\EingabeAusgabe\EingabeAusgabe\obj\Debug\EingabeAusgabe.pdb

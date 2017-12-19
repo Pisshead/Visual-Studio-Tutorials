@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenFunktion\ZeichnenFunktion\bin\Debug\ZeichnenFunktion.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenFunktion\ZeichnenFunktion\bin\Debug\ZeichnenFunktion.exe
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenFunktion\ZeichnenFunktion\bin\Debug\ZeichnenFunktion.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenFunktion\ZeichnenFunktion\obj\Debug\ZeichnenFunktion.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenFunktion\ZeichnenFunktion\obj\Debug\ZeichnenFunktion.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenFunktion\ZeichnenFunktion\obj\Debug\ZeichnenFunktion.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenFunktion\ZeichnenFunktion\obj\Debug\ZeichnenFunktion.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenFunktion\ZeichnenFunktion\obj\Debug\ZeichnenFunktion.exe
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenFunktion\ZeichnenFunktion\obj\Debug\ZeichnenFunktion.pdb

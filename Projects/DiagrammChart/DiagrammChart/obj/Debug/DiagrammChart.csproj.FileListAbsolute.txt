@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\DiagrammChart\DiagrammChart\bin\Debug\DiagrammChart.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DiagrammChart\DiagrammChart\bin\Debug\DiagrammChart.exe
+c:\users\theis\documents\visual studio 2017\Projects\DiagrammChart\DiagrammChart\bin\Debug\DiagrammChart.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.exe
+c:\users\theis\documents\visual studio 2017\Projects\DiagrammChart\DiagrammChart\obj\Debug\DiagrammChart.pdb

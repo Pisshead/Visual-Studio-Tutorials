@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\UForSchleife\UForSchleife\bin\Debug\UForSchleife.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UForSchleife\UForSchleife\bin\Debug\UForSchleife.exe
+c:\users\theis\documents\visual studio 2017\Projects\UForSchleife\UForSchleife\bin\Debug\UForSchleife.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UForSchleife\UForSchleife\obj\Debug\UForSchleife.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UForSchleife\UForSchleife\obj\Debug\UForSchleife.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UForSchleife\UForSchleife\obj\Debug\UForSchleife.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UForSchleife\UForSchleife\obj\Debug\UForSchleife.exe
+c:\users\theis\documents\visual studio 2017\Projects\UForSchleife\UForSchleife\obj\Debug\UForSchleife.pdb

@@ -1,0 +1,8 @@
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\DatenfeldEindimensional\DatenfeldEindimensional\bin\Debug\DatenfeldEindimensional.exe.config
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\DatenfeldEindimensional\DatenfeldEindimensional\bin\Debug\DatenfeldEindimensional.exe
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\DatenfeldEindimensional\DatenfeldEindimensional\bin\Debug\DatenfeldEindimensional.pdb
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\DatenfeldEindimensional\DatenfeldEindimensional\obj\Debug\DatenfeldEindimensional.Form1.resources
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\DatenfeldEindimensional\DatenfeldEindimensional\obj\Debug\DatenfeldEindimensional.Properties.Resources.resources
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\DatenfeldEindimensional\DatenfeldEindimensional\obj\Debug\DatenfeldEindimensional.csproj.GenerateResource.Cache
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\DatenfeldEindimensional\DatenfeldEindimensional\obj\Debug\DatenfeldEindimensional.exe
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\DatenfeldEindimensional\DatenfeldEindimensional\obj\Debug\DatenfeldEindimensional.pdb

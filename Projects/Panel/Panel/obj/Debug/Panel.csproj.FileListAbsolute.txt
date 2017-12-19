@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Panel\Panel\bin\Debug\Panel.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Panel\Panel\bin\Debug\Panel.exe
+c:\users\theis\documents\visual studio 2017\Projects\Panel\Panel\bin\Debug\Panel.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Panel\Panel\obj\Debug\Panel.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\Panel\Panel\obj\Debug\Panel.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Panel\Panel\obj\Debug\Panel.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Panel\Panel\obj\Debug\Panel.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Panel\Panel\obj\Debug\Panel.exe
+c:\users\theis\documents\visual studio 2017\Projects\Panel\Panel\obj\Debug\Panel.pdb

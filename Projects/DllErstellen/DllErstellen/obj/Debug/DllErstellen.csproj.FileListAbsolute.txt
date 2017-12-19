@@ -1,0 +1,5 @@
+c:\users\theis\documents\visual studio 2017\Projects\DllErstellen\DllErstellen\bin\Debug\DllErstellen.dll
+c:\users\theis\documents\visual studio 2017\Projects\DllErstellen\DllErstellen\bin\Debug\DllErstellen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DllErstellen\DllErstellen\obj\Debug\DllErstellen.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\DllErstellen\DllErstellen\obj\Debug\DllErstellen.dll
+c:\users\theis\documents\visual studio 2017\Projects\DllErstellen\DllErstellen\obj\Debug\DllErstellen.pdb

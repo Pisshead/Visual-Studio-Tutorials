@@ -1,0 +1,13 @@
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\bin\Debug\WPFAnimDreiDRotation.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\bin\Debug\WPFAnimDreiDRotation.exe
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\bin\Debug\WPFAnimDreiDRotation.pdb
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\obj\Debug\WPFAnimDreiDRotation.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\obj\Debug\MainWindow.baml
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\obj\Debug\MainWindow.g.cs
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\obj\Debug\App.g.cs
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\obj\Debug\WPFAnimDreiDRotation_MarkupCompile.cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\obj\Debug\WPFAnimDreiDRotation.g.resources
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\obj\Debug\WPFAnimDreiDRotation.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\obj\Debug\WPFAnimDreiDRotation.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\obj\Debug\WPFAnimDreiDRotation.exe
+c:\users\theis\documents\visual studio 2017\Projects\WPFAnimDreiDRotation\WPFAnimDreiDRotation\obj\Debug\WPFAnimDreiDRotation.pdb

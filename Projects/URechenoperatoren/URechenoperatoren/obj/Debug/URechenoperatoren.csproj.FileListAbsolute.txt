@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\URechenoperatoren\URechenoperatoren\bin\Debug\URechenoperatoren.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\URechenoperatoren\URechenoperatoren\bin\Debug\URechenoperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\URechenoperatoren\URechenoperatoren\bin\Debug\URechenoperatoren.pdb
+c:\users\theis\documents\visual studio 2017\Projects\URechenoperatoren\URechenoperatoren\obj\Debug\URechenoperatoren.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\URechenoperatoren\URechenoperatoren\obj\Debug\URechenoperatoren.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\URechenoperatoren\URechenoperatoren\obj\Debug\URechenoperatoren.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\URechenoperatoren\URechenoperatoren\obj\Debug\URechenoperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\URechenoperatoren\URechenoperatoren\obj\Debug\URechenoperatoren.pdb

@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Vererbung\Vererbung\bin\Debug\Vererbung.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Vererbung\Vererbung\bin\Debug\Vererbung.exe
+c:\users\theis\documents\visual studio 2017\Projects\Vererbung\Vererbung\bin\Debug\Vererbung.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Vererbung\Vererbung\obj\Debug\Vererbung.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Vererbung\Vererbung\obj\Debug\Vererbung.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Vererbung\Vererbung\obj\Debug\Vererbung.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Vererbung\Vererbung\obj\Debug\Vererbung.exe
+c:\users\theis\documents\visual studio 2017\Projects\Vererbung\Vererbung\obj\Debug\Vererbung.pdb

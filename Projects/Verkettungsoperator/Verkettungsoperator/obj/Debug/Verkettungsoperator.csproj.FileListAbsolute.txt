@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Verkettungsoperator\Verkettungsoperator\obj\Debug\Verkettungsoperator.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Verkettungsoperator\Verkettungsoperator\obj\Debug\Verkettungsoperator.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Verkettungsoperator\Verkettungsoperator\obj\Debug\Verkettungsoperator.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Verkettungsoperator\Verkettungsoperator\bin\Debug\Verkettungsoperator.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Verkettungsoperator\Verkettungsoperator\bin\Debug\Verkettungsoperator.exe
+c:\users\theis\documents\visual studio 2017\Projects\Verkettungsoperator\Verkettungsoperator\bin\Debug\Verkettungsoperator.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Verkettungsoperator\Verkettungsoperator\obj\Debug\Verkettungsoperator.exe
+c:\users\theis\documents\visual studio 2017\Projects\Verkettungsoperator\Verkettungsoperator\obj\Debug\Verkettungsoperator.pdb

@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\StandardDialogfelder\StandardDialogfelder\bin\Debug\StandardDialogfelder.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\StandardDialogfelder\StandardDialogfelder\bin\Debug\StandardDialogfelder.exe
+c:\users\theis\documents\visual studio 2017\Projects\StandardDialogfelder\StandardDialogfelder\bin\Debug\StandardDialogfelder.pdb
+c:\users\theis\documents\visual studio 2017\Projects\StandardDialogfelder\StandardDialogfelder\obj\Debug\StandardDialogfelder.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\StandardDialogfelder\StandardDialogfelder\obj\Debug\StandardDialogfelder.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\StandardDialogfelder\StandardDialogfelder\obj\Debug\StandardDialogfelder.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\StandardDialogfelder\StandardDialogfelder\obj\Debug\StandardDialogfelder.exe
+c:\users\theis\documents\visual studio 2017\Projects\StandardDialogfelder\StandardDialogfelder\obj\Debug\StandardDialogfelder.pdb
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\StandardDialogfelder\StandardDialogfelder\obj\Debug\StandardDialogfelder.csprojResolveAssemblyReference.cache

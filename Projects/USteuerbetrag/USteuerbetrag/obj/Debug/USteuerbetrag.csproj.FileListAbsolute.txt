@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\USteuerbetrag\USteuerbetrag\bin\Debug\USteuerbetrag.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\USteuerbetrag\USteuerbetrag\bin\Debug\USteuerbetrag.exe
+c:\users\theis\documents\visual studio 2017\Projects\USteuerbetrag\USteuerbetrag\bin\Debug\USteuerbetrag.pdb
+c:\users\theis\documents\visual studio 2017\Projects\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.exe
+c:\users\theis\documents\visual studio 2017\Projects\USteuerbetrag\USteuerbetrag\obj\Debug\USteuerbetrag.pdb

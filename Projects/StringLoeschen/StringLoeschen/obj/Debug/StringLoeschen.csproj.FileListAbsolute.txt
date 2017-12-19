@@ -1,0 +1,8 @@
+C:\Users\Theis\documents\visual studio 2017\Projects\StringLoeschen\StringLoeschen\bin\Debug\StringLoeschen.exe.config
+C:\Users\Theis\documents\visual studio 2017\Projects\StringLoeschen\StringLoeschen\bin\Debug\StringLoeschen.exe
+C:\Users\Theis\documents\visual studio 2017\Projects\StringLoeschen\StringLoeschen\bin\Debug\StringLoeschen.pdb
+C:\Users\Theis\documents\visual studio 2017\Projects\StringLoeschen\StringLoeschen\obj\Debug\StringLoeschen.Form1.resources
+C:\Users\Theis\documents\visual studio 2017\Projects\StringLoeschen\StringLoeschen\obj\Debug\StringLoeschen.Properties.Resources.resources
+C:\Users\Theis\documents\visual studio 2017\Projects\StringLoeschen\StringLoeschen\obj\Debug\StringLoeschen.csproj.GenerateResource.Cache
+C:\Users\Theis\documents\visual studio 2017\Projects\StringLoeschen\StringLoeschen\obj\Debug\StringLoeschen.exe
+C:\Users\Theis\documents\visual studio 2017\Projects\StringLoeschen\StringLoeschen\obj\Debug\StringLoeschen.pdb

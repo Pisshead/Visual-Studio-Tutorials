@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\bin\Debug\DatenfeldVerzweigt.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\bin\Debug\DatenfeldVerzweigt.exe
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\bin\Debug\DatenfeldVerzweigt.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.exe
+c:\users\theis\documents\visual studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.pdb

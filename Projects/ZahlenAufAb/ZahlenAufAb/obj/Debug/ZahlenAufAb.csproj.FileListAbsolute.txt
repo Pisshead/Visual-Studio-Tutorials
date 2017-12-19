@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\ZahlenAufAb\ZahlenAufAb\bin\Debug\ZahlenAufAb.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ZahlenAufAb\ZahlenAufAb\bin\Debug\ZahlenAufAb.exe
+c:\users\theis\documents\visual studio 2017\Projects\ZahlenAufAb\ZahlenAufAb\bin\Debug\ZahlenAufAb.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ZahlenAufAb\ZahlenAufAb\obj\Debug\ZahlenAufAb.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ZahlenAufAb\ZahlenAufAb\obj\Debug\ZahlenAufAb.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ZahlenAufAb\ZahlenAufAb\obj\Debug\ZahlenAufAb.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ZahlenAufAb\ZahlenAufAb\obj\Debug\ZahlenAufAb.exe
+c:\users\theis\documents\visual studio 2017\Projects\ZahlenAufAb\ZahlenAufAb\obj\Debug\ZahlenAufAb.pdb

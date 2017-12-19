@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\ExceptionHandlingErweitert\ExceptionHandlingErweitert\bin\Debug\ExceptionHandlingErweitert.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ExceptionHandlingErweitert\ExceptionHandlingErweitert\bin\Debug\ExceptionHandlingErweitert.exe
+c:\users\theis\documents\visual studio 2017\Projects\ExceptionHandlingErweitert\ExceptionHandlingErweitert\bin\Debug\ExceptionHandlingErweitert.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ExceptionHandlingErweitert\ExceptionHandlingErweitert\obj\Debug\ExceptionHandlingErweitert.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ExceptionHandlingErweitert\ExceptionHandlingErweitert\obj\Debug\ExceptionHandlingErweitert.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ExceptionHandlingErweitert\ExceptionHandlingErweitert\obj\Debug\ExceptionHandlingErweitert.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ExceptionHandlingErweitert\ExceptionHandlingErweitert\obj\Debug\ExceptionHandlingErweitert.exe
+c:\users\theis\documents\visual studio 2017\Projects\ExceptionHandlingErweitert\ExceptionHandlingErweitert\obj\Debug\ExceptionHandlingErweitert.pdb

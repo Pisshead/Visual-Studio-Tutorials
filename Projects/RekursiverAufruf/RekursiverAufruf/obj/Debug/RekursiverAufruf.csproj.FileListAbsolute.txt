@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.exe
+c:\users\theis\documents\visual studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.pdb
+c:\users\theis\documents\visual studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.exe
+c:\users\theis\documents\visual studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.pdb
