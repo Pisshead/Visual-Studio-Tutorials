@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\ULogischeOperatoren\ULogischeOperatoren\bin\Debug\ULogischeOperatoren.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ULogischeOperatoren\ULogischeOperatoren\bin\Debug\ULogischeOperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\ULogischeOperatoren\ULogischeOperatoren\bin\Debug\ULogischeOperatoren.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ULogischeOperatoren\ULogischeOperatoren\obj\Debug\ULogischeOperatoren.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ULogischeOperatoren\ULogischeOperatoren\obj\Debug\ULogischeOperatoren.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ULogischeOperatoren\ULogischeOperatoren\obj\Debug\ULogischeOperatoren.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ULogischeOperatoren\ULogischeOperatoren\obj\Debug\ULogischeOperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\ULogischeOperatoren\ULogischeOperatoren\obj\Debug\ULogischeOperatoren.pdb

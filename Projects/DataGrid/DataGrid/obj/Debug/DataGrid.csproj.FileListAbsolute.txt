@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\DataGrid\DataGrid\bin\Debug\DataGrid.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DataGrid\DataGrid\bin\Debug\DataGrid.exe
+c:\users\theis\documents\visual studio 2017\Projects\DataGrid\DataGrid\bin\Debug\DataGrid.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DataGrid\DataGrid\obj\Debug\DataGrid.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\DataGrid\DataGrid\obj\Debug\DataGrid.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DataGrid\DataGrid\obj\Debug\DataGrid.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DataGrid\DataGrid\obj\Debug\DataGrid.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DataGrid\DataGrid\obj\Debug\DataGrid.exe
+c:\users\theis\documents\visual studio 2017\Projects\DataGrid\DataGrid\obj\Debug\DataGrid.pdb

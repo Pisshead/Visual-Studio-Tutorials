@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Laufzeitfehler\Laufzeitfehler\bin\Debug\Laufzeitfehler.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Laufzeitfehler\Laufzeitfehler\bin\Debug\Laufzeitfehler.exe
+c:\users\theis\documents\visual studio 2017\Projects\Laufzeitfehler\Laufzeitfehler\bin\Debug\Laufzeitfehler.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.exe
+c:\users\theis\documents\visual studio 2017\Projects\Laufzeitfehler\Laufzeitfehler\obj\Debug\Laufzeitfehler.pdb

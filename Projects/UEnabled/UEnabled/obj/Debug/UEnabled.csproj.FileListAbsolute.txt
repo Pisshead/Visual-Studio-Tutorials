@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\UEnabled\UEnabled\bin\Debug\UEnabled.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UEnabled\UEnabled\bin\Debug\UEnabled.exe
+c:\users\theis\documents\visual studio 2017\Projects\UEnabled\UEnabled\bin\Debug\UEnabled.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UEnabled\UEnabled\obj\Debug\UEnabled.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UEnabled\UEnabled\obj\Debug\UEnabled.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UEnabled\UEnabled\obj\Debug\UEnabled.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UEnabled\UEnabled\obj\Debug\UEnabled.exe
+c:\users\theis\documents\visual studio 2017\Projects\UEnabled\UEnabled\obj\Debug\UEnabled.pdb

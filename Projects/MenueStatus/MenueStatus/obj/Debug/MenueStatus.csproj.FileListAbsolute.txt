@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\MenueStatus\MenueStatus\bin\Debug\MenueStatus.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\MenueStatus\MenueStatus\bin\Debug\MenueStatus.exe
+c:\users\theis\documents\visual studio 2017\Projects\MenueStatus\MenueStatus\bin\Debug\MenueStatus.pdb
+c:\users\theis\documents\visual studio 2017\Projects\MenueStatus\MenueStatus\obj\Debug\MenueStatus.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\MenueStatus\MenueStatus\obj\Debug\MenueStatus.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\MenueStatus\MenueStatus\obj\Debug\MenueStatus.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\MenueStatus\MenueStatus\obj\Debug\MenueStatus.exe
+c:\users\theis\documents\visual studio 2017\Projects\MenueStatus\MenueStatus\obj\Debug\MenueStatus.pdb

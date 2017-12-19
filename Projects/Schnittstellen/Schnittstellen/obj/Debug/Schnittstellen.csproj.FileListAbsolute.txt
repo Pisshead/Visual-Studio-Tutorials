@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Schnittstellen\Schnittstellen\bin\Debug\Schnittstellen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Schnittstellen\Schnittstellen\bin\Debug\Schnittstellen.exe
+c:\users\theis\documents\visual studio 2017\Projects\Schnittstellen\Schnittstellen\bin\Debug\Schnittstellen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.exe
+c:\users\theis\documents\visual studio 2017\Projects\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.pdb
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\Schnittstellen\Schnittstellen\obj\Debug\Schnittstellen.csprojResolveAssemblyReference.cache

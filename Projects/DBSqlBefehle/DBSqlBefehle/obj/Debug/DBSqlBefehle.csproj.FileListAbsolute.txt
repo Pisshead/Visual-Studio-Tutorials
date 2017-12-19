@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.exe
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\bin\Debug\DBSqlBefehle.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.exe
+c:\users\theis\documents\visual studio 2017\Projects\DBSqlBefehle\DBSqlBefehle\obj\Debug\DBSqlBefehle.pdb

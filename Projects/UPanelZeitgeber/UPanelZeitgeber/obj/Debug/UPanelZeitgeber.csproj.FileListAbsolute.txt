@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\UPanelZeitgeber\UPanelZeitgeber\bin\Debug\UPanelZeitgeber.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UPanelZeitgeber\UPanelZeitgeber\bin\Debug\UPanelZeitgeber.exe
+c:\users\theis\documents\visual studio 2017\Projects\UPanelZeitgeber\UPanelZeitgeber\bin\Debug\UPanelZeitgeber.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UPanelZeitgeber\UPanelZeitgeber\obj\Debug\UPanelZeitgeber.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UPanelZeitgeber\UPanelZeitgeber\obj\Debug\UPanelZeitgeber.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UPanelZeitgeber\UPanelZeitgeber\obj\Debug\UPanelZeitgeber.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UPanelZeitgeber\UPanelZeitgeber\obj\Debug\UPanelZeitgeber.exe
+c:\users\theis\documents\visual studio 2017\Projects\UPanelZeitgeber\UPanelZeitgeber\obj\Debug\UPanelZeitgeber.pdb

@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\UZahlenraten\UZahlenraten\bin\Debug\UZahlenraten.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UZahlenraten\UZahlenraten\bin\Debug\UZahlenraten.exe
+c:\users\theis\documents\visual studio 2017\Projects\UZahlenraten\UZahlenraten\bin\Debug\UZahlenraten.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.exe
+c:\users\theis\documents\visual studio 2017\Projects\UZahlenraten\UZahlenraten\obj\Debug\UZahlenraten.pdb

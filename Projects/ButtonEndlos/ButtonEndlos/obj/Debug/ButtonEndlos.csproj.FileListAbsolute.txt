@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\ButtonEndlos\ButtonEndlos\bin\Debug\ButtonEndlos.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ButtonEndlos\ButtonEndlos\bin\Debug\ButtonEndlos.exe
+c:\users\theis\documents\visual studio 2017\Projects\ButtonEndlos\ButtonEndlos\bin\Debug\ButtonEndlos.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ButtonEndlos\ButtonEndlos\obj\Debug\ButtonEndlos.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ButtonEndlos\ButtonEndlos\obj\Debug\ButtonEndlos.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ButtonEndlos\ButtonEndlos\obj\Debug\ButtonEndlos.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ButtonEndlos\ButtonEndlos\obj\Debug\ButtonEndlos.exe
+c:\users\theis\documents\visual studio 2017\Projects\ButtonEndlos\ButtonEndlos\obj\Debug\ButtonEndlos.pdb

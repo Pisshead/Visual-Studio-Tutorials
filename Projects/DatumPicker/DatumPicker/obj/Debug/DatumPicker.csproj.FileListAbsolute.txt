@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\DatumPicker\DatumPicker\bin\Debug\DatumPicker.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DatumPicker\DatumPicker\bin\Debug\DatumPicker.exe
+c:\users\theis\documents\visual studio 2017\Projects\DatumPicker\DatumPicker\bin\Debug\DatumPicker.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DatumPicker\DatumPicker\obj\Debug\DatumPicker.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DatumPicker\DatumPicker\obj\Debug\DatumPicker.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DatumPicker\DatumPicker\obj\Debug\DatumPicker.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DatumPicker\DatumPicker\obj\Debug\DatumPicker.exe
+c:\users\theis\documents\visual studio 2017\Projects\DatumPicker\DatumPicker\obj\Debug\DatumPicker.pdb

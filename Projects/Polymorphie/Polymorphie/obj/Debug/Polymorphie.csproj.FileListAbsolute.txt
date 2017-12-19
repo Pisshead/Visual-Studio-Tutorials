@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Polymorphie\Polymorphie\obj\Debug\Polymorphie.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Polymorphie\Polymorphie\obj\Debug\Polymorphie.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Polymorphie\Polymorphie\obj\Debug\Polymorphie.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Polymorphie\Polymorphie\bin\Debug\Polymorphie.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Polymorphie\Polymorphie\bin\Debug\Polymorphie.exe
+c:\users\theis\documents\visual studio 2017\Projects\Polymorphie\Polymorphie\bin\Debug\Polymorphie.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Polymorphie\Polymorphie\obj\Debug\Polymorphie.exe
+c:\users\theis\documents\visual studio 2017\Projects\Polymorphie\Polymorphie\obj\Debug\Polymorphie.pdb

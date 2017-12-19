@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\LogischeOperatoren\LogischeOperatoren\bin\Debug\LogischeOperatoren.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\LogischeOperatoren\LogischeOperatoren\bin\Debug\LogischeOperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\LogischeOperatoren\LogischeOperatoren\bin\Debug\LogischeOperatoren.pdb
+c:\users\theis\documents\visual studio 2017\Projects\LogischeOperatoren\LogischeOperatoren\obj\Debug\LogischeOperatoren.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\LogischeOperatoren\LogischeOperatoren\obj\Debug\LogischeOperatoren.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\LogischeOperatoren\LogischeOperatoren\obj\Debug\LogischeOperatoren.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\LogischeOperatoren\LogischeOperatoren\obj\Debug\LogischeOperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\LogischeOperatoren\LogischeOperatoren\obj\Debug\LogischeOperatoren.pdb

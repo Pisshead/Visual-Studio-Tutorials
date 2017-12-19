@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEigenschaften\ListenfeldEigenschaften\bin\Debug\ListenfeldEigenschaften.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEigenschaften\ListenfeldEigenschaften\bin\Debug\ListenfeldEigenschaften.exe
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEigenschaften\ListenfeldEigenschaften\bin\Debug\ListenfeldEigenschaften.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEigenschaften\ListenfeldEigenschaften\obj\Debug\ListenfeldEigenschaften.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEigenschaften\ListenfeldEigenschaften\obj\Debug\ListenfeldEigenschaften.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEigenschaften\ListenfeldEigenschaften\obj\Debug\ListenfeldEigenschaften.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEigenschaften\ListenfeldEigenschaften\obj\Debug\ListenfeldEigenschaften.exe
+c:\users\theis\documents\visual studio 2017\Projects\ListenfeldEigenschaften\ListenfeldEigenschaften\obj\Debug\ListenfeldEigenschaften.pdb

@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\EnabledVisible\EnabledVisible\bin\Debug\EnabledVisible.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\EnabledVisible\EnabledVisible\bin\Debug\EnabledVisible.exe
+c:\users\theis\documents\visual studio 2017\Projects\EnabledVisible\EnabledVisible\bin\Debug\EnabledVisible.pdb
+c:\users\theis\documents\visual studio 2017\Projects\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.exe
+c:\users\theis\documents\visual studio 2017\Projects\EnabledVisible\EnabledVisible\obj\Debug\EnabledVisible.pdb

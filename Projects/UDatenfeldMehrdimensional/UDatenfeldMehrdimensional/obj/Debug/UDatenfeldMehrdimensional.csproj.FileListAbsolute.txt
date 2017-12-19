@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\bin\Debug\UDatenfeldMehrdimensional.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\bin\Debug\UDatenfeldMehrdimensional.exe
+c:\users\theis\documents\visual studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\bin\Debug\UDatenfeldMehrdimensional.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.exe
+c:\users\theis\documents\visual studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.pdb
+C:\Users\Theis\documents\visual studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.csprojResolveAssemblyReference.cache

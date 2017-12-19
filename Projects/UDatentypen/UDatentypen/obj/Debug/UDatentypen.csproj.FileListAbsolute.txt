@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\UDatentypen\UDatentypen\bin\Debug\UDatentypen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UDatentypen\UDatentypen\bin\Debug\UDatentypen.exe
+c:\users\theis\documents\visual studio 2017\Projects\UDatentypen\UDatentypen\bin\Debug\UDatentypen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UDatentypen\UDatentypen\obj\Debug\UDatentypen.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\UDatentypen\UDatentypen\obj\Debug\UDatentypen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UDatentypen\UDatentypen\obj\Debug\UDatentypen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UDatentypen\UDatentypen\obj\Debug\UDatentypen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UDatentypen\UDatentypen\obj\Debug\UDatentypen.exe
+c:\users\theis\documents\visual studio 2017\Projects\UDatentypen\UDatentypen\obj\Debug\UDatentypen.pdb

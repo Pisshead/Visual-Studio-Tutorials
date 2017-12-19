@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.exe
+c:\users\theis\documents\visual studio 2017\Projects\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.pdb
+c:\users\theis\documents\visual studio 2017\Projects\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.exe
+c:\users\theis\documents\visual studio 2017\Projects\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.pdb

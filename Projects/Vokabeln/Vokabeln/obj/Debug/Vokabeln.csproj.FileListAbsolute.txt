@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Vokabeln\Vokabeln\bin\Debug\Vokabeln.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Vokabeln\Vokabeln\bin\Debug\Vokabeln.exe
+c:\users\theis\documents\visual studio 2017\Projects\Vokabeln\Vokabeln\bin\Debug\Vokabeln.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Vokabeln\Vokabeln\obj\Debug\Vokabeln.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\Vokabeln\Vokabeln\obj\Debug\Vokabeln.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Vokabeln\Vokabeln\obj\Debug\Vokabeln.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Vokabeln\Vokabeln\obj\Debug\Vokabeln.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Vokabeln\Vokabeln\obj\Debug\Vokabeln.exe
+c:\users\theis\documents\visual studio 2017\Projects\Vokabeln\Vokabeln\obj\Debug\Vokabeln.pdb

@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Vergleichsoperatoren\Vergleichsoperatoren\bin\Debug\Vergleichsoperatoren.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Vergleichsoperatoren\Vergleichsoperatoren\bin\Debug\Vergleichsoperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\Vergleichsoperatoren\Vergleichsoperatoren\bin\Debug\Vergleichsoperatoren.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Vergleichsoperatoren\Vergleichsoperatoren\obj\Debug\Vergleichsoperatoren.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\Vergleichsoperatoren\Vergleichsoperatoren\obj\Debug\Vergleichsoperatoren.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Vergleichsoperatoren\Vergleichsoperatoren\obj\Debug\Vergleichsoperatoren.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Vergleichsoperatoren\Vergleichsoperatoren\obj\Debug\Vergleichsoperatoren.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Vergleichsoperatoren\Vergleichsoperatoren\obj\Debug\Vergleichsoperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\Vergleichsoperatoren\Vergleichsoperatoren\obj\Debug\Vergleichsoperatoren.pdb

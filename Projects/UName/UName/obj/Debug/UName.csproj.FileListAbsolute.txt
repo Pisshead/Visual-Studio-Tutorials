@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\UName\UName\bin\Debug\UName.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UName\UName\bin\Debug\UName.exe
+c:\users\theis\documents\visual studio 2017\Projects\UName\UName\bin\Debug\UName.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UName\UName\obj\Debug\UName.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UName\UName\obj\Debug\UName.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UName\UName\obj\Debug\UName.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UName\UName\obj\Debug\UName.exe
+c:\users\theis\documents\visual studio 2017\Projects\UName\UName\obj\Debug\UName.pdb

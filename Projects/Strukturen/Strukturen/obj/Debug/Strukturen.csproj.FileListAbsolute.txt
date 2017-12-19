@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Strukturen\Strukturen\obj\Debug\Strukturen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Strukturen\Strukturen\obj\Debug\Strukturen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Strukturen\Strukturen\obj\Debug\Strukturen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Strukturen\Strukturen\bin\Debug\Strukturen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Strukturen\Strukturen\bin\Debug\Strukturen.exe
+c:\users\theis\documents\visual studio 2017\Projects\Strukturen\Strukturen\bin\Debug\Strukturen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Strukturen\Strukturen\obj\Debug\Strukturen.exe
+c:\users\theis\documents\visual studio 2017\Projects\Strukturen\Strukturen\obj\Debug\Strukturen.pdb

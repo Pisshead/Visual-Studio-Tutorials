@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Rechenoperatoren\Rechenoperatoren\bin\Debug\Rechenoperatoren.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Rechenoperatoren\Rechenoperatoren\bin\Debug\Rechenoperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\Rechenoperatoren\Rechenoperatoren\bin\Debug\Rechenoperatoren.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.exe
+c:\users\theis\documents\visual studio 2017\Projects\Rechenoperatoren\Rechenoperatoren\obj\Debug\Rechenoperatoren.pdb

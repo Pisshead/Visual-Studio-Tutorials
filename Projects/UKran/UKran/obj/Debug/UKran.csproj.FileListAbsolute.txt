@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\UKran\UKran\bin\Debug\UKran.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UKran\UKran\bin\Debug\UKran.exe
+c:\users\theis\documents\visual studio 2017\Projects\UKran\UKran\bin\Debug\UKran.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UKran\UKran\obj\Debug\UKran.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\UKran\UKran\obj\Debug\UKran.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UKran\UKran\obj\Debug\UKran.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UKran\UKran\obj\Debug\UKran.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UKran\UKran\obj\Debug\UKran.exe
+c:\users\theis\documents\visual studio 2017\Projects\UKran\UKran\obj\Debug\UKran.pdb

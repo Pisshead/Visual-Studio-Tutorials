@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\XmlDatei\XmlDatei\bin\Debug\XmlDatei.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\XmlDatei\XmlDatei\bin\Debug\XmlDatei.exe
+c:\users\theis\documents\visual studio 2017\Projects\XmlDatei\XmlDatei\bin\Debug\XmlDatei.pdb
+c:\users\theis\documents\visual studio 2017\Projects\XmlDatei\XmlDatei\obj\Debug\XmlDatei.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\XmlDatei\XmlDatei\obj\Debug\XmlDatei.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\XmlDatei\XmlDatei\obj\Debug\XmlDatei.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\XmlDatei\XmlDatei\obj\Debug\XmlDatei.exe
+c:\users\theis\documents\visual studio 2017\Projects\XmlDatei\XmlDatei\obj\Debug\XmlDatei.pdb

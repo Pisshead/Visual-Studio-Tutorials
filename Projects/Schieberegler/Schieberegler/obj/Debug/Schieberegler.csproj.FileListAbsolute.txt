@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Schieberegler\Schieberegler\bin\Debug\Schieberegler.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Schieberegler\Schieberegler\bin\Debug\Schieberegler.exe
+c:\users\theis\documents\visual studio 2017\Projects\Schieberegler\Schieberegler\bin\Debug\Schieberegler.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Schieberegler\Schieberegler\obj\Debug\Schieberegler.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\Schieberegler\Schieberegler\obj\Debug\Schieberegler.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Schieberegler\Schieberegler\obj\Debug\Schieberegler.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Schieberegler\Schieberegler\obj\Debug\Schieberegler.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Schieberegler\Schieberegler\obj\Debug\Schieberegler.exe
+c:\users\theis\documents\visual studio 2017\Projects\Schieberegler\Schieberegler\obj\Debug\Schieberegler.pdb

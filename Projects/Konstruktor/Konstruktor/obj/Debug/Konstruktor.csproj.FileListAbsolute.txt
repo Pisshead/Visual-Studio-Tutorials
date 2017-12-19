@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Konstruktor\Konstruktor\obj\Debug\Konstruktor.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Konstruktor\Konstruktor\obj\Debug\Konstruktor.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Konstruktor\Konstruktor\obj\Debug\Konstruktor.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Konstruktor\Konstruktor\bin\Debug\Konstruktor.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Konstruktor\Konstruktor\bin\Debug\Konstruktor.exe
+c:\users\theis\documents\visual studio 2017\Projects\Konstruktor\Konstruktor\bin\Debug\Konstruktor.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Konstruktor\Konstruktor\obj\Debug\Konstruktor.exe
+c:\users\theis\documents\visual studio 2017\Projects\Konstruktor\Konstruktor\obj\Debug\Konstruktor.pdb
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\Konstruktor\Konstruktor\obj\Debug\Konstruktor.csprojResolveAssemblyReference.cache

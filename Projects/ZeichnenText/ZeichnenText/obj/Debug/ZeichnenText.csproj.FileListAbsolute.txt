@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenText\ZeichnenText\bin\Debug\ZeichnenText.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenText\ZeichnenText\bin\Debug\ZeichnenText.exe
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenText\ZeichnenText\bin\Debug\ZeichnenText.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenText\ZeichnenText\obj\Debug\ZeichnenText.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenText\ZeichnenText\obj\Debug\ZeichnenText.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenText\ZeichnenText\obj\Debug\ZeichnenText.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenText\ZeichnenText\obj\Debug\ZeichnenText.exe
+c:\users\theis\documents\visual studio 2017\Projects\ZeichnenText\ZeichnenText\obj\Debug\ZeichnenText.pdb
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\ZeichnenText\ZeichnenText\obj\Debug\ZeichnenText.csprojResolveAssemblyReference.cache

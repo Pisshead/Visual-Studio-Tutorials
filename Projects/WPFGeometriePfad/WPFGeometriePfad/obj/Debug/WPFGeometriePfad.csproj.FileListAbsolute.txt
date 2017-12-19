@@ -1,0 +1,12 @@
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\bin\Debug\WPFGeometriePfad.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\bin\Debug\WPFGeometriePfad.exe
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\bin\Debug\WPFGeometriePfad.pdb
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\obj\Debug\MainWindow.g.cs
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\obj\Debug\App.g.cs
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\obj\Debug\WPFGeometriePfad_MarkupCompile.cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\obj\Debug\MainWindow.baml
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\obj\Debug\WPFGeometriePfad.g.resources
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\obj\Debug\WPFGeometriePfad.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\obj\Debug\WPFGeometriePfad.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\obj\Debug\WPFGeometriePfad.exe
+c:\users\theis\documents\visual studio 2017\Projects\WPFGeometriePfad\WPFGeometriePfad\obj\Debug\WPFGeometriePfad.pdb

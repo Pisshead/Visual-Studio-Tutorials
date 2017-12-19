@@ -1,0 +1,11 @@
+c:\users\theis\documents\visual studio 2017\Projects\DBZugriffMySQL\DBZugriffMySQL\bin\Debug\DBZugriffMySQL.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DBZugriffMySQL\DBZugriffMySQL\bin\Debug\DBZugriffMySQL.exe
+c:\users\theis\documents\visual studio 2017\Projects\DBZugriffMySQL\DBZugriffMySQL\bin\Debug\DBZugriffMySQL.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DBZugriffMySQL\DBZugriffMySQL\bin\Debug\MySql.Data.dll
+c:\users\theis\documents\visual studio 2017\Projects\DBZugriffMySQL\DBZugriffMySQL\bin\Debug\MySql.Data.xml
+c:\users\theis\documents\visual studio 2017\Projects\DBZugriffMySQL\DBZugriffMySQL\obj\Debug\DBZugriffMySQL.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\DBZugriffMySQL\DBZugriffMySQL\obj\Debug\DBZugriffMySQL.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DBZugriffMySQL\DBZugriffMySQL\obj\Debug\DBZugriffMySQL.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DBZugriffMySQL\DBZugriffMySQL\obj\Debug\DBZugriffMySQL.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DBZugriffMySQL\DBZugriffMySQL\obj\Debug\DBZugriffMySQL.exe
+c:\users\theis\documents\visual studio 2017\Projects\DBZugriffMySQL\DBZugriffMySQL\obj\Debug\DBZugriffMySQL.pdb

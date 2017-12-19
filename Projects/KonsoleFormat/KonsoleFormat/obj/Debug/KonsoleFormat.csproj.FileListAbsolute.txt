@@ -1,0 +1,5 @@
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleFormat\KonsoleFormat\bin\Debug\KonsoleFormat.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleFormat\KonsoleFormat\bin\Debug\KonsoleFormat.exe
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleFormat\KonsoleFormat\bin\Debug\KonsoleFormat.pdb
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleFormat\KonsoleFormat\obj\Debug\KonsoleFormat.exe
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleFormat\KonsoleFormat\obj\Debug\KonsoleFormat.pdb

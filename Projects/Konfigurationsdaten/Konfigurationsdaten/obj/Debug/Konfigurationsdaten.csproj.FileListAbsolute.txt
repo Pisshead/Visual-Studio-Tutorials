@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Konfigurationsdaten\Konfigurationsdaten\bin\Debug\Konfigurationsdaten.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Konfigurationsdaten\Konfigurationsdaten\bin\Debug\Konfigurationsdaten.exe
+c:\users\theis\documents\visual studio 2017\Projects\Konfigurationsdaten\Konfigurationsdaten\bin\Debug\Konfigurationsdaten.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Konfigurationsdaten\Konfigurationsdaten\obj\Debug\Konfigurationsdaten.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Konfigurationsdaten\Konfigurationsdaten\obj\Debug\Konfigurationsdaten.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Konfigurationsdaten\Konfigurationsdaten\obj\Debug\Konfigurationsdaten.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Konfigurationsdaten\Konfigurationsdaten\obj\Debug\Konfigurationsdaten.exe
+c:\users\theis\documents\visual studio 2017\Projects\Konfigurationsdaten\Konfigurationsdaten\obj\Debug\Konfigurationsdaten.pdb
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\Konfigurationsdaten\Konfigurationsdaten\obj\Debug\Konfigurationsdaten.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+c:\users\theis\documents\visual studio 2017\Projects\DllNutzen\DllNutzen\bin\Debug\DllNutzen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DllNutzen\DllNutzen\bin\Debug\DllNutzen.exe
+c:\users\theis\documents\visual studio 2017\Projects\DllNutzen\DllNutzen\bin\Debug\DllNutzen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DllNutzen\DllNutzen\bin\Debug\DllErstellen.dll
+c:\users\theis\documents\visual studio 2017\Projects\DllNutzen\DllNutzen\bin\Debug\DllErstellen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DllNutzen\DllNutzen\obj\Debug\DllNutzen.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\DllNutzen\DllNutzen\obj\Debug\DllNutzen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DllNutzen\DllNutzen\obj\Debug\DllNutzen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DllNutzen\DllNutzen\obj\Debug\DllNutzen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DllNutzen\DllNutzen\obj\Debug\DllNutzen.exe
+c:\users\theis\documents\visual studio 2017\Projects\DllNutzen\DllNutzen\obj\Debug\DllNutzen.pdb

@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeitRechnen\DatumUhrzeitRechnen\bin\Debug\DatumUhrzeitRechnen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeitRechnen\DatumUhrzeitRechnen\bin\Debug\DatumUhrzeitRechnen.exe
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeitRechnen\DatumUhrzeitRechnen\bin\Debug\DatumUhrzeitRechnen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.exe
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeitRechnen\DatumUhrzeitRechnen\obj\Debug\DatumUhrzeitRechnen.pdb

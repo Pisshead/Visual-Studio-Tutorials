@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Zeitgeber\Zeitgeber\bin\Debug\Zeitgeber.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Zeitgeber\Zeitgeber\bin\Debug\Zeitgeber.exe
+c:\users\theis\documents\visual studio 2017\Projects\Zeitgeber\Zeitgeber\bin\Debug\Zeitgeber.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Zeitgeber\Zeitgeber\obj\Debug\Zeitgeber.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Zeitgeber\Zeitgeber\obj\Debug\Zeitgeber.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Zeitgeber\Zeitgeber\obj\Debug\Zeitgeber.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Zeitgeber\Zeitgeber\obj\Debug\Zeitgeber.exe
+c:\users\theis\documents\visual studio 2017\Projects\Zeitgeber\Zeitgeber\obj\Debug\Zeitgeber.pdb

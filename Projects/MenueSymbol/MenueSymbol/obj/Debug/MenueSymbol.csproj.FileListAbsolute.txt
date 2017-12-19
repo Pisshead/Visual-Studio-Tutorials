@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\MenueSymbol\MenueSymbol\bin\Debug\MenueSymbol.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\MenueSymbol\MenueSymbol\bin\Debug\MenueSymbol.exe
+c:\users\theis\documents\visual studio 2017\Projects\MenueSymbol\MenueSymbol\bin\Debug\MenueSymbol.pdb
+c:\users\theis\documents\visual studio 2017\Projects\MenueSymbol\MenueSymbol\obj\Debug\MenueSymbol.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\MenueSymbol\MenueSymbol\obj\Debug\MenueSymbol.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\MenueSymbol\MenueSymbol\obj\Debug\MenueSymbol.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\MenueSymbol\MenueSymbol\obj\Debug\MenueSymbol.exe
+c:\users\theis\documents\visual studio 2017\Projects\MenueSymbol\MenueSymbol\obj\Debug\MenueSymbol.pdb

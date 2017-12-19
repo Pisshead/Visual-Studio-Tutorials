@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\MenueKontext\MenueKontext\bin\Debug\MenueKontext.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\MenueKontext\MenueKontext\bin\Debug\MenueKontext.exe
+c:\users\theis\documents\visual studio 2017\Projects\MenueKontext\MenueKontext\bin\Debug\MenueKontext.pdb
+c:\users\theis\documents\visual studio 2017\Projects\MenueKontext\MenueKontext\obj\Debug\MenueKontext.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\MenueKontext\MenueKontext\obj\Debug\MenueKontext.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\MenueKontext\MenueKontext\obj\Debug\MenueKontext.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\MenueKontext\MenueKontext\obj\Debug\MenueKontext.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\MenueKontext\MenueKontext\obj\Debug\MenueKontext.exe
+c:\users\theis\documents\visual studio 2017\Projects\MenueKontext\MenueKontext\obj\Debug\MenueKontext.pdb

@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeit\DatumUhrzeit\bin\Debug\DatumUhrzeit.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeit\DatumUhrzeit\bin\Debug\DatumUhrzeit.exe
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeit\DatumUhrzeit\bin\Debug\DatumUhrzeit.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.exe
+c:\users\theis\documents\visual studio 2017\Projects\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.pdb
+C:\Users\Theis\Documents\Visual Studio 2017\Projects\DatumUhrzeit\DatumUhrzeit\obj\Debug\DatumUhrzeit.csprojResolveAssemblyReference.cache

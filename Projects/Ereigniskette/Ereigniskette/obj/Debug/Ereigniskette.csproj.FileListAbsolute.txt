@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Ereigniskette\Ereigniskette\bin\Debug\Ereigniskette.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Ereigniskette\Ereigniskette\bin\Debug\Ereigniskette.exe
+c:\users\theis\documents\visual studio 2017\Projects\Ereigniskette\Ereigniskette\bin\Debug\Ereigniskette.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.exe
+c:\users\theis\documents\visual studio 2017\Projects\Ereigniskette\Ereigniskette\obj\Debug\Ereigniskette.pdb

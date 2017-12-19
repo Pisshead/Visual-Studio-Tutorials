@@ -1,0 +1,5 @@
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\bin\Debug\KonsoleEinAus.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\bin\Debug\KonsoleEinAus.exe
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\bin\Debug\KonsoleEinAus.pdb
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\obj\Debug\KonsoleEinAus.exe
+c:\users\theis\documents\visual studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\obj\Debug\KonsoleEinAus.pdb

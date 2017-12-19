@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\DBVerwaltung\DBVerwaltung\bin\Debug\DBVerwaltung.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\DBVerwaltung\DBVerwaltung\bin\Debug\DBVerwaltung.exe
+c:\users\theis\documents\visual studio 2017\Projects\DBVerwaltung\DBVerwaltung\bin\Debug\DBVerwaltung.pdb
+c:\users\theis\documents\visual studio 2017\Projects\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.exe
+c:\users\theis\documents\visual studio 2017\Projects\DBVerwaltung\DBVerwaltung\obj\Debug\DBVerwaltung.pdb

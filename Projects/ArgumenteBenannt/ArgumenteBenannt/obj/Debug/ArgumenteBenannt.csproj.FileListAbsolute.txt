@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\bin\Debug\ArgumenteBenannt.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\bin\Debug\ArgumenteBenannt.exe
+c:\users\theis\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\bin\Debug\ArgumenteBenannt.pdb
+c:\users\theis\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.exe
+c:\users\theis\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.pdb

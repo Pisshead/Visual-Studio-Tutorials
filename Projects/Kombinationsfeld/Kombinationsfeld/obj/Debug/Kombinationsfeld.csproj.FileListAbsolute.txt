@@ -1,0 +1,9 @@
+c:\users\theis\documents\visual studio 2017\Projects\Kombinationsfeld\Kombinationsfeld\bin\Debug\Kombinationsfeld.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Kombinationsfeld\Kombinationsfeld\bin\Debug\Kombinationsfeld.exe
+c:\users\theis\documents\visual studio 2017\Projects\Kombinationsfeld\Kombinationsfeld\bin\Debug\Kombinationsfeld.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.exe
+c:\users\theis\documents\visual studio 2017\Projects\Kombinationsfeld\Kombinationsfeld\obj\Debug\Kombinationsfeld.pdb

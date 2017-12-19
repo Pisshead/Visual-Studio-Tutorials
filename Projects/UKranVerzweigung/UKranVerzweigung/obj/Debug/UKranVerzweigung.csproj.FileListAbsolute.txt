@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\UKranVerzweigung\UKranVerzweigung\bin\Debug\UKranVerzweigung.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\UKranVerzweigung\UKranVerzweigung\bin\Debug\UKranVerzweigung.exe
+c:\users\theis\documents\visual studio 2017\Projects\UKranVerzweigung\UKranVerzweigung\bin\Debug\UKranVerzweigung.pdb
+c:\users\theis\documents\visual studio 2017\Projects\UKranVerzweigung\UKranVerzweigung\obj\Debug\UKranVerzweigung.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\UKranVerzweigung\UKranVerzweigung\obj\Debug\UKranVerzweigung.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\UKranVerzweigung\UKranVerzweigung\obj\Debug\UKranVerzweigung.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\UKranVerzweigung\UKranVerzweigung\obj\Debug\UKranVerzweigung.exe
+c:\users\theis\documents\visual studio 2017\Projects\UKranVerzweigung\UKranVerzweigung\obj\Debug\UKranVerzweigung.pdb

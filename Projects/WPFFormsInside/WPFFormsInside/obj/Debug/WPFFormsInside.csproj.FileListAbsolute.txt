@@ -1,0 +1,14 @@
+c:\users\theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\obj\Debug\WPFFormsInside.csprojResolveAssemblyReference.cache
+c:\users\theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\obj\Debug\App.g.cs
+c:\users\theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\obj\Debug\WPFFormsInside_MarkupCompile.cache
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\bin\Debug\WPFFormsInside.exe.config
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\bin\Debug\WPFFormsInside.exe
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\bin\Debug\WPFFormsInside.pdb
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\obj\Debug\MainWindow.g.cs
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\obj\Debug\WPFFormsInside_MarkupCompile.lref
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\obj\Debug\MainWindow.baml
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\obj\Debug\WPFFormsInside.g.resources
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\obj\Debug\WPFFormsInside.Properties.Resources.resources
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\obj\Debug\WPFFormsInside.csproj.GenerateResource.Cache
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\obj\Debug\WPFFormsInside.exe
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFFormsInside\WPFFormsInside\obj\Debug\WPFFormsInside.pdb

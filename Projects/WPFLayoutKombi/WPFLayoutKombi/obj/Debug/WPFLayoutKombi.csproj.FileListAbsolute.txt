@@ -1,0 +1,14 @@
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\bin\Debug\WPFLayoutKombi.exe.config
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\bin\Debug\WPFLayoutKombi.exe
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\bin\Debug\WPFLayoutKombi.pdb
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\obj\Debug\WPFLayoutKombi.csprojResolveAssemblyReference.cache
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\obj\Debug\MainWindow.g.cs
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\obj\Debug\App.g.cs
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\obj\Debug\WPFLayoutKombi_MarkupCompile.cache
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\obj\Debug\WPFLayoutKombi_MarkupCompile.lref
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\obj\Debug\MainWindow.baml
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\obj\Debug\WPFLayoutKombi.g.resources
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\obj\Debug\WPFLayoutKombi.Properties.Resources.resources
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\obj\Debug\WPFLayoutKombi.csproj.GenerateResource.Cache
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\obj\Debug\WPFLayoutKombi.exe
+C:\Users\Theis\documents\visual studio 2017\Projects\WPFLayoutKombi\WPFLayoutKombi\obj\Debug\WPFLayoutKombi.pdb

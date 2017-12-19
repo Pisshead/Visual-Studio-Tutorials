@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\Datentypen\Datentypen\obj\Debug\Datentypen.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\Datentypen\Datentypen\obj\Debug\Datentypen.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\Datentypen\Datentypen\obj\Debug\Datentypen.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\Datentypen\Datentypen\bin\Debug\Datentypen.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\Datentypen\Datentypen\bin\Debug\Datentypen.exe
+c:\users\theis\documents\visual studio 2017\Projects\Datentypen\Datentypen\bin\Debug\Datentypen.pdb
+c:\users\theis\documents\visual studio 2017\Projects\Datentypen\Datentypen\obj\Debug\Datentypen.exe
+c:\users\theis\documents\visual studio 2017\Projects\Datentypen\Datentypen\obj\Debug\Datentypen.pdb

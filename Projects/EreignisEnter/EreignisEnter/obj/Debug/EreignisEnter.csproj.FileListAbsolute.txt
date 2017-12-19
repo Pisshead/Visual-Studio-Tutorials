@@ -1,0 +1,8 @@
+c:\users\theis\documents\visual studio 2017\Projects\EreignisEnter\EreignisEnter\bin\Debug\EreignisEnter.exe.config
+c:\users\theis\documents\visual studio 2017\Projects\EreignisEnter\EreignisEnter\bin\Debug\EreignisEnter.exe
+c:\users\theis\documents\visual studio 2017\Projects\EreignisEnter\EreignisEnter\bin\Debug\EreignisEnter.pdb
+c:\users\theis\documents\visual studio 2017\Projects\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.Form1.resources
+c:\users\theis\documents\visual studio 2017\Projects\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.Properties.Resources.resources
+c:\users\theis\documents\visual studio 2017\Projects\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.csproj.GenerateResource.Cache
+c:\users\theis\documents\visual studio 2017\Projects\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.exe
+c:\users\theis\documents\visual studio 2017\Projects\EreignisEnter\EreignisEnter\obj\Debug\EreignisEnter.pdb
