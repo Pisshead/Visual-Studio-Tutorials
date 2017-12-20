@@ -1,0 +1,10 @@
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.csprojResolveAssemblyReference.cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.Form1.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.Properties.Resources.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.csproj.GenerateResource.Cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.csproj.CoreCompileInputs.cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\bin\Debug\ArgumenteBenannt.exe.config
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\bin\Debug\ArgumenteBenannt.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\bin\Debug\ArgumenteBenannt.pdb
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBenannt\ArgumenteBenannt\obj\Debug\ArgumenteBenannt.pdb

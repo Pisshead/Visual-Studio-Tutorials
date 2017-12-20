@@ -1,0 +1,9 @@
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\bin\Debug\UDatenfeldMehrdimensional.exe.config
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\bin\Debug\UDatenfeldMehrdimensional.exe
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\bin\Debug\UDatenfeldMehrdimensional.pdb
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.csprojResolveAssemblyReference.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.Properties.Resources.resources
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.csproj.GenerateResource.Cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.csproj.CoreCompileInputs.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.exe
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\UDatenfeldMehrdimensional\UDatenfeldMehrdimensional\obj\Debug\UDatenfeldMehrdimensional.pdb

@@ -1,0 +1,10 @@
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methoden\Methoden\bin\Debug\Methoden.exe.config
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methoden\Methoden\bin\Debug\Methoden.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methoden\Methoden\bin\Debug\Methoden.pdb
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.csprojResolveAssemblyReference.cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.Form1.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.Properties.Resources.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.csproj.GenerateResource.Cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.csproj.CoreCompileInputs.cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methoden\Methoden\obj\Debug\Methoden.pdb

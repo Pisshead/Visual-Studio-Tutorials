@@ -1,0 +1,10 @@
+C:\Users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.csprojResolveAssemblyReference.cache
+C:\Users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.FrmArgumenteBeliebig.resources
+C:\Users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.Properties.Resources.resources
+C:\Users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.csproj.GenerateResource.Cache
+C:\Users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.csproj.CoreCompileInputs.cache
+C:\Users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBeliebig\ArgumenteBeliebig\bin\Debug\ArgumenteBeliebig.exe.config
+C:\Users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBeliebig\ArgumenteBeliebig\bin\Debug\ArgumenteBeliebig.exe
+C:\Users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBeliebig\ArgumenteBeliebig\bin\Debug\ArgumenteBeliebig.pdb
+C:\Users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.exe
+C:\Users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteBeliebig\ArgumenteBeliebig\obj\Debug\ArgumenteBeliebig.pdb

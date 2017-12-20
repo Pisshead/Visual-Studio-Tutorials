@@ -1,0 +1,9 @@
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Objektgruppen\Objektgruppen\obj\Debug\Objektgruppen.csprojResolveAssemblyReference.cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Objektgruppen\Objektgruppen\obj\Debug\Objektgruppen.FrmOptionsgruppen.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Objektgruppen\Objektgruppen\obj\Debug\Objektgruppen.Properties.Resources.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Objektgruppen\Objektgruppen\obj\Debug\Objektgruppen.csproj.GenerateResource.Cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Objektgruppen\Objektgruppen\bin\Debug\Objektgruppen.exe.config
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Objektgruppen\Objektgruppen\bin\Debug\Objektgruppen.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Objektgruppen\Objektgruppen\bin\Debug\Objektgruppen.pdb
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Objektgruppen\Objektgruppen\obj\Debug\Objektgruppen.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Objektgruppen\Objektgruppen\obj\Debug\Objektgruppen.pdb

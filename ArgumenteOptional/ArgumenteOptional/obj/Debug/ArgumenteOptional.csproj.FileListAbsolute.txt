@@ -1,0 +1,10 @@
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteOptional\ArgumenteOptional\bin\Debug\ArgumenteOptional.exe.config
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteOptional\ArgumenteOptional\bin\Debug\ArgumenteOptional.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteOptional\ArgumenteOptional\bin\Debug\ArgumenteOptional.pdb
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.csprojResolveAssemblyReference.cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.FrmAddieren.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.Properties.Resources.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.csproj.GenerateResource.Cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.csproj.CoreCompileInputs.cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\ArgumenteOptional\ArgumenteOptional\obj\Debug\ArgumenteOptional.pdb

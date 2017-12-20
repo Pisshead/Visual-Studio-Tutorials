@@ -1,0 +1,10 @@
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.exe.config
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.exe
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\bin\Debug\RekursiverAufruf.pdb
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.csprojResolveAssemblyReference.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.FrmRekursiverAufruf.resources
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.Properties.Resources.resources
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.csproj.GenerateResource.Cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.csproj.CoreCompileInputs.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.exe
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\RekursiverAufruf\RekursiverAufruf\obj\Debug\RekursiverAufruf.pdb

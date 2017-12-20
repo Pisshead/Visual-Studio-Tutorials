@@ -1,0 +1,10 @@
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\bin\Debug\DatenfeldVerzweigt.exe.config
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\bin\Debug\DatenfeldVerzweigt.exe
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\bin\Debug\DatenfeldVerzweigt.pdb
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.csprojResolveAssemblyReference.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.FrmDatenfeldVerzweigt.resources
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.Properties.Resources.resources
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.csproj.GenerateResource.Cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.csproj.CoreCompileInputs.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.exe
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\DatenfeldVerzweigt\DatenfeldVerzweigt\obj\Debug\DatenfeldVerzweigt.pdb

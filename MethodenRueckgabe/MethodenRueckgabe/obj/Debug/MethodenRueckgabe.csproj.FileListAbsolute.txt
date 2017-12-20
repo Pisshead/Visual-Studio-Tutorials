@@ -1,0 +1,9 @@
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\MethodenRueckgabe\MethodenRueckgabe\bin\Debug\MethodenRueckgabe.exe.config
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\MethodenRueckgabe\MethodenRueckgabe\bin\Debug\MethodenRueckgabe.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\MethodenRueckgabe\MethodenRueckgabe\bin\Debug\MethodenRueckgabe.pdb
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.FrmMethodenRueckgabe.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.Properties.Resources.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.csproj.GenerateResource.Cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.csproj.CoreCompileInputs.cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\MethodenRueckgabe\MethodenRueckgabe\obj\Debug\MethodenRueckgabe.pdb

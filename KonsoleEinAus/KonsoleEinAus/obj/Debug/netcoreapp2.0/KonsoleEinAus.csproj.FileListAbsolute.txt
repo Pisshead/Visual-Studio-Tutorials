@@ -1,0 +1,11 @@
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\bin\Debug\netcoreapp2.0\KonsoleEinAus.deps.json
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\bin\Debug\netcoreapp2.0\KonsoleEinAus.runtimeconfig.json
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\bin\Debug\netcoreapp2.0\KonsoleEinAus.runtimeconfig.dev.json
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\bin\Debug\netcoreapp2.0\KonsoleEinAus.dll
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\bin\Debug\netcoreapp2.0\KonsoleEinAus.pdb
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\obj\Debug\netcoreapp2.0\KonsoleEinAus.csprojResolveAssemblyReference.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\obj\Debug\netcoreapp2.0\KonsoleEinAus.csproj.CoreCompileInputs.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\obj\Debug\netcoreapp2.0\KonsoleEinAus.AssemblyInfoInputs.cache
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\obj\Debug\netcoreapp2.0\KonsoleEinAus.AssemblyInfo.cs
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\obj\Debug\netcoreapp2.0\KonsoleEinAus.dll
+C:\Users\admin.joel.schoeni\Documents\Visual Studio 2017\Projects\KonsoleEinAus\KonsoleEinAus\obj\Debug\netcoreapp2.0\KonsoleEinAus.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UDatenfeldMehrdimensional", "UDatenfeldMehrdimensional\UDatenfeldMehrdimensional.csproj", "{D9FC6084-50A0-467C-B1EA-CE144687A909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatenfeldMehrdimensional", "..\..\..\..\..\..\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\Buch\DatenfeldMehrdimensional\DatenfeldMehrdimensional\DatenfeldMehrdimensional.csproj", "{2BB6DA5A-7E15-48C1-A09D-5A7676142671}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9FC6084-50A0-467C-B1EA-CE144687A909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FC6084-50A0-467C-B1EA-CE144687A909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FC6084-50A0-467C-B1EA-CE144687A909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FC6084-50A0-467C-B1EA-CE144687A909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB6DA5A-7E15-48C1-A09D-5A7676142671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB6DA5A-7E15-48C1-A09D-5A7676142671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB6DA5A-7E15-48C1-A09D-5A7676142671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB6DA5A-7E15-48C1-A09D-5A7676142671}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A7E3AC4-1835-4EA1-A1EA-C1D0B60C1E9A}
+	EndGlobalSection
+EndGlobal

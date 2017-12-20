@@ -1,0 +1,10 @@
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methodenübergabe\Methodenübergabe\bin\Debug\Methodenübergabe.exe.config
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methodenübergabe\Methodenübergabe\bin\Debug\Methodenübergabe.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methodenübergabe\Methodenübergabe\bin\Debug\Methodenübergabe.pdb
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methodenübergabe\Methodenübergabe\obj\Debug\Methodenübergabe.csprojResolveAssemblyReference.cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methodenübergabe\Methodenübergabe\obj\Debug\Methodenübergabe.FrmMethodenUebergabe.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methodenübergabe\Methodenübergabe\obj\Debug\Methodenübergabe.Properties.Resources.resources
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methodenübergabe\Methodenübergabe\obj\Debug\Methodenübergabe.csproj.GenerateResource.Cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methodenübergabe\Methodenübergabe\obj\Debug\Methodenübergabe.csproj.CoreCompileInputs.cache
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methodenübergabe\Methodenübergabe\obj\Debug\Methodenübergabe.exe
+c:\users\admin.joel.schoeni\documents\visual studio 2017\Projects\Methodenübergabe\Methodenübergabe\obj\Debug\Methodenübergabe.pdb
