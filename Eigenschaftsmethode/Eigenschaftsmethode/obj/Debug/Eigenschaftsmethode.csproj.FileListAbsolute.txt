@@ -1,0 +1,10 @@
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.exe.config
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.exe
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Eigenschaftsmethode\Eigenschaftsmethode\bin\Debug\Eigenschaftsmethode.pdb
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.csprojResolveAssemblyReference.cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.FrmEigenschaftsmethode.resources
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.Properties.Resources.resources
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.csproj.GenerateResource.Cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.csproj.CoreCompileInputs.cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.exe
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Eigenschaftsmethode\Eigenschaftsmethode\obj\Debug\Eigenschaftsmethode.pdb
