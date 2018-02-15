@@ -1,0 +1,10 @@
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Konstruktor\Konstruktor\bin\Debug\Konstruktor.exe.config
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Konstruktor\Konstruktor\bin\Debug\Konstruktor.exe
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Konstruktor\Konstruktor\bin\Debug\Konstruktor.pdb
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Konstruktor\Konstruktor\obj\Debug\Konstruktor.csprojResolveAssemblyReference.cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Konstruktor\Konstruktor\obj\Debug\Konstruktor.Form1.resources
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Konstruktor\Konstruktor\obj\Debug\Konstruktor.Properties.Resources.resources
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Konstruktor\Konstruktor\obj\Debug\Konstruktor.csproj.GenerateResource.Cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Konstruktor\Konstruktor\obj\Debug\Konstruktor.csproj.CoreCompileInputs.cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Konstruktor\Konstruktor\obj\Debug\Konstruktor.exe
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\Konstruktor\Konstruktor\obj\Debug\Konstruktor.pdb

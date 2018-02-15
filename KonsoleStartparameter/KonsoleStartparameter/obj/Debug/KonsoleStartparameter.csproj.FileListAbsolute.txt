@@ -5,3 +5,10 @@ C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorial
 C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.csproj.CoreCompileInputs.cache
 C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.exe
 C:\Schoehl\Beruf\Osisia GmbH\Tutorials Visual Studio\test\Visual-Studio-Tutorials\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.pdb
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KonsoleStartparameter\KonsoleStartparameter\bin\Debug\KonsoleStartparameter.exe.config
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KonsoleStartparameter\KonsoleStartparameter\bin\Debug\KonsoleStartparameter.exe
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KonsoleStartparameter\KonsoleStartparameter\bin\Debug\KonsoleStartparameter.pdb
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.csprojResolveAssemblyReference.cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.csproj.CoreCompileInputs.cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.exe
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KonsoleStartparameter\KonsoleStartparameter\obj\Debug\KonsoleStartparameter.pdb

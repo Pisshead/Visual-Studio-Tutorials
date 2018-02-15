@@ -1,0 +1,10 @@
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.exe.config
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.exe
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KlasseObjekt\KlasseObjekt\bin\Debug\KlasseObjekt.pdb
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csprojResolveAssemblyReference.cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.Form1.resources
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.Properties.Resources.resources
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csproj.GenerateResource.Cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.csproj.CoreCompileInputs.cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.exe
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\KlasseObjekt\KlasseObjekt\obj\Debug\KlasseObjekt.pdb
