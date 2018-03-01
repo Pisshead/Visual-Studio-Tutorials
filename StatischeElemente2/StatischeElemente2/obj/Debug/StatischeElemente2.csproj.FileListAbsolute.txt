@@ -1,0 +1,10 @@
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\StatischeElemente2\StatischeElemente2\bin\Debug\StatischeElemente2.exe.config
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\StatischeElemente2\StatischeElemente2\bin\Debug\StatischeElemente2.exe
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\StatischeElemente2\StatischeElemente2\bin\Debug\StatischeElemente2.pdb
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\StatischeElemente2\StatischeElemente2\obj\Debug\StatischeElemente2.csprojResolveAssemblyReference.cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\StatischeElemente2\StatischeElemente2\obj\Debug\StatischeElemente2.Properties.Resources.resources
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\StatischeElemente2\StatischeElemente2\obj\Debug\StatischeElemente2.csproj.GenerateResource.Cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\StatischeElemente2\StatischeElemente2\obj\Debug\StatischeElemente2.csproj.CoreCompileInputs.cache
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\StatischeElemente2\StatischeElemente2\obj\Debug\StatischeElemente2.exe
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\StatischeElemente2\StatischeElemente2\obj\Debug\StatischeElemente2.pdb
+C:\Users\admin.schoenij\source\repos\Visual-Studio-Tutorials\StatischeElemente2\StatischeElemente2\obj\Debug\StatischeElemente2.Form1.resources
